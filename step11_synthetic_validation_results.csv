@@ -1,0 +1,3 @@
+Method,Synthetic samples,All values finite,All values nonnegative,Minimum vector norm,Maximum vector norm,Mean nearest-original cosine similarity,Minimum cosine similarity,Maximum cosine similarity,Almost identical to original,Duplicate synthetic rows
+Lagrange degree 2,377,True,True,0.9999999999999998,1.0000000000000002,0.9491166520813403,0.7603511111318576,0.9999999700889828,1,0
+Standard SMOTE,377,True,True,0.7398607246644368,1.0,0.9369914472705078,0.7667514125673307,1.0,4,1

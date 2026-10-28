@@ -1,0 +1,2 @@
+Original training samples,Synthetic samples,All values finite,All values nonnegative,Mean nearest-original cosine similarity,Minimum nearest-original cosine similarity,Maximum nearest-original cosine similarity,Near-duplicate original matches,Rounded duplicate synthetic rows
+1421,377,True,True,0.9491166520813403,0.7603511111318576,0.9999999700889828,1,0
